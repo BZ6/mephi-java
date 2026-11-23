@@ -17,7 +17,7 @@ OpenJDK Server VM Corretto-11.0.24.8.1 (build 11.0.24+8-LTS, mixed mode, emulate
 
 ## Сервис метеорологических данных
 
-Код [приложения](src\main\java\WeatherApp.java) для вывода метеорологических данных.
+Код [приложения](src/main/java/WeatherApp.java) для вывода метеорологических данных.
 
 Нужен апи ключ от яндекса, вставьте его в [конфиг](config.properties).
 
